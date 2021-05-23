@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer reside in Socal 🧸
 
-- 🔭 I just launched my first web App: [Walter's YelpCamp](https://github.com/super-Walter/udemyYelpCamp)
+- 🔭 I just launched my first React web App: [Walter's E-Commerce](https://github.com/super-Walter/udemyECommerceSite)[Click Me To Deployed Site](https://walters-shop.herokuapp.com/)
 - 🌱 I’m currently learning App Academy Open && React course on Udemy
 - 👯 I’m looking for a fulltime Software Developer Engineer job
 - 🥅 2021 Goals: Land my first SDE job !!!
