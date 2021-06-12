@@ -1,6 +1,6 @@
 ### Hi there, I'm Walter 👋
 
-## I'm a Husband, Father, Developer reside in Socal 🧸
+## I'm a Husband, Father, Developer 🧸
 
 - 🔭 I just launched my first React web App: [Walter's E-Commerce](https://github.com/super-Walter/udemyECommerceSite)/[Click Me To Deployed Site](https://walters-shop.herokuapp.com/)
 - 🌱 I’m currently learning App Academy Open && React course on Udemy
